@@ -1,0 +1,12 @@
+com\BikeRental\VoltRide\model\Model.class
+com\BikeRental\VoltRide\model\Vehicle.class
+com\BikeRental\VoltRide\Config\CorsConfig$1.class
+com\BikeRental\VoltRide\security\CustomUserDetailsService.class
+com\BikeRental\VoltRide\Controller\BikeController.class
+com\BikeRental\VoltRide\Service\BikeService.class
+com\BikeRental\VoltRide\JPARepository.class
+com\BikeRental\VoltRide\Config\CorsConfig.class
+com\BikeRental\VoltRide\security\JwtUtil.class
+com\BikeRental\VoltRide\Config\SecurityConfig.class
+com\BikeRental\VoltRide\VoltRideApplication.class
+com\BikeRental\VoltRide\security\JwtAuthenticationFilter.class
